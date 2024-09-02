@@ -1,2 +1,2 @@
-# ETL
-Proceso de ETL (Extracción, Transformación y Carga) utilizando una página web de Ofertas Gastronómicas la cual nos arroja los datos en formato CSV, por medio de Python se realiza la transformación de los datos y posteriormente se realiza la carga a una base de datos en SQL con la información ya organizada , desagregada y limpia.
+# ETL (Extracción, Transformación y Carga)
+Este proyecto consiste en realizar todo un proceso de ETL para un conjunto de datos. La extracción de estos se lleva a cabo utilizando una página web de Ofertas Gastronómicas la cual nos arroja los datos en formato CSV, después por medio de Python se realiza la transformación pertinente de los datos y finalmente se realiza la carga a una base de datos en SQL con la información ya organizada , desagregada y limpia.
